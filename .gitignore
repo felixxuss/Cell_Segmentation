@@ -1,0 +1,12 @@
+# no models
+models/
+
+# no archive
+archive/
+
+# no cache
+__pycache__/
+
+# no images. they can be downloaded from the server
+*.tif
+*.png
